@@ -22,6 +22,7 @@ public class HelloWorldService {
 
     public static void main(String[] args) {
         String aa = "";
+        String bb = "";
         SpringApplication.run(HelloWorldService.class,args);
     }
 }
